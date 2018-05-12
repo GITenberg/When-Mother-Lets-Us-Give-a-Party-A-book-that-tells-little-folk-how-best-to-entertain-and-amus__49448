@@ -1,15 +1,21 @@
 _repo: When-Mother-Lets-Us-Give-a-Party-A-book-that-tells-little-folk-how-best-to-entertain-and-amus__49448
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Budell, Ada
     gutenberg_agent_id: '32707'
     url: http://www.gutenberg.org/2009/agents/32707
+covers:
+- cover_type: archival
+  image_path: 49448-h/images/cover.jpg
 creator:
   author:
     agent_name: Yale, Elsie Duncan
     gutenberg_agent_id: '45344'
     url: http://www.gutenberg.org/2009/agents/45344
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49448#When-Mother-Lets-Us-Give-a-Party-A-book-that-tells-little-folk-how-best-to-entertain-and-amus_
 gutenberg_issued: '2015-07-16'
 gutenberg_type: Text
 identifiers:
